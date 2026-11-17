@@ -1,0 +1,178 @@
+{
+  "Default-568h@2x.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/Default-568h@2x.png",
+    "sha256": "40cc31532f1978902113608220b6c13b9f3d5500e9747aec7138d6fb6b9b34c5"
+  },
+  "bubble01.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/bubble01.png",
+    "sha256": "86c0dc2051703da051cc9f9b9eca2409e7654a1462f55d1f1adaefe9ecade1a0"
+  },
+  "coin.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/coin.png",
+    "sha256": "bc06f2338926b6c45ea8393938fd7d22af85239a0a3e2e31e92ba73ef4465e95"
+  },
+  "dust.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/dust.png",
+    "sha256": "48cd145d24c2842240f408ac1aa5934892f7e46cdc52d19237b6543b8ef59e21"
+  },
+  "flame01.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-flame01.png",
+    "sha256": "2c1c4ea4923a688ec6f82b207f4026ead0f0a874e5b05f4c0c013e7c103e7a30"
+  },
+  "flame02.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-flame02.png",
+    "sha256": "cdcb9c7c9cbc6c031ef3dee44d32fea7bdc4bc1d51930fbca0f6756a48979210"
+  },
+  "frame.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/frame.png",
+    "sha256": "8ad6eb225ce3183714bbe4ba42975f40f2cdd9b303b756cb1ab6c11f559330d3"
+  },
+  "game_font.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/game_font.png",
+    "sha256": "ec43866174726786dce9bdff76788d7ef61283f553ed43dd301971eb40aa7b58"
+  },
+  "goal01.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/goal01.png",
+    "sha256": "5e7c74fda38ea441228843c81068a8adb379aaf6da282524e5d7eb3e7f7e9fe0"
+  },
+  "infinite_bubble.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/infinite_bubble.png",
+    "sha256": "f96f8ba085d89eb2514bb30e80d744cd7cff13c596b98a2d60477b7fe650d729"
+  },
+  "level1-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level1-568h.png",
+    "sha256": "030ac2849d11eae43e4c2e2326d4913472b9e1633f3fa1fde80e524d859a6cf2"
+  },
+  "level1.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level1.png",
+    "sha256": "d55ccf2d96ad69d76e44725fe231209f8762ccf8030481baffb4b96957a92614"
+  },
+  "level2-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level2-568h.png",
+    "sha256": "820b911e3cab2e28733583ec1f9375b8448517d007da38e35ba83c1ba7b00360"
+  },
+  "level2.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level2.png",
+    "sha256": "907225e7d8f7cd4ba4fc9197471042df87689cd4fbe43b402c38fe5000637e9c"
+  },
+  "level3-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level3-568h.png",
+    "sha256": "839e8652eb92aef2f213c377220e93c56aa0ec3ec4ad77d7389595407feffc0f"
+  },
+  "level3.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level3.png",
+    "sha256": "57d04a2932eda9d7dd198eb47317260eacd97265f88d397cef6842e58f9a6d1e"
+  },
+  "level4-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level4-568h.png",
+    "sha256": "2ab421d306bfdefed454e252906875a0812b8b70527956d459e7a9391db67aea"
+  },
+  "level4.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level4.png",
+    "sha256": "9b940e417ce9a3d08fb249cdc834380afc6c7ba5bd885ebe83fdfe250b6df830"
+  },
+  "level5-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level5-568h.png",
+    "sha256": "706c432c01664d1b956dbca08d0a2274904b6187d049b78a12100119db75b173"
+  },
+  "level5.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level5.png",
+    "sha256": "ac7cdc4d9f17d55f38caa9a387a159e96dc953a7a7e2900b77f676d72b442946"
+  },
+  "level6-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level6-568h.png",
+    "sha256": "03c2c3832e9d569c0ede0b0dac8428456c9528183444c10f54aa9e6f17412bd4"
+  },
+  "level6.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/level6.png",
+    "sha256": "f18210aae0094690e5759385b5050825b5e9fa6a17119586367b7f2084ce3c56"
+  },
+  "meta_tileset.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/meta_tileset.png",
+    "sha256": "84ef7ab052190a4deb97fc29946518da5c574f434a2a9bcfa07cd5468d56a402"
+  },
+  "player-win.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/player-win.png",
+    "sha256": "b51b498387efb7246db8d6b22de49219a28169093319835e70c08ccb671fae43"
+  },
+  "player.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/player.png",
+    "sha256": "fee9c05fc8973c020d2c1f94ea5fecdfbca0c061d348bd70b94a0837b81a8d5b"
+  },
+  "scanlines-568h.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/scanlines-568h.png",
+    "sha256": "464e9cba9d034713a9876749836aa08ca5571817f9f490d45ff093a884ae026b"
+  },
+  "spout.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-spout.png",
+    "sha256": "f36519e59badb8ad30745e358ca990456c17a2a718a59eeb2a43f7560aecdc73"
+  },
+  "tileset.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-tileset.png",
+    "sha256": "90e6e91591053b8ecbe7c5fd2428ca8ad22b9fdae2eb80e1eeca9dd39c3723c8"
+  },
+  "tileset2.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-tileset2.png",
+    "sha256": "55998b8346746b1b7a5ce0add1e8de2498bda7a68cdb4e3280d8291922e31e7e"
+  },
+  "tileset3.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaleland-tileset3.png",
+    "sha256": "a24f43c4971d288e382aa9301af53a99dd35242542081e8fee3c0372e0e105e6"
+  },
+  "title_font.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/title_font.png",
+    "sha256": "ab6f29cfb18bd24a4e665b0a117f0eff62c88a270bad96548a8d688e5e9c5a27"
+  },
+  "title_font2.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/title_font2.png",
+    "sha256": "01b59ee2655c484448307a4385cffaf45a959ffc79c7bc277b31e3c8c8e815fe"
+  },
+  "whaley-expressions.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaley-expressions.png",
+    "sha256": "e8a1532cf53cb4d68fa508782bfe80c4db15ff164e3e46eb74fde005860e3a0c"
+  },
+  "whaley-win-expressions.png": {
+    "source": "Sources/WhaleySpriteKit/Resources/whaley-win-expressions.png",
+    "sha256": "7dea68b369a26680586083a811a46984b3398cbc37cebff9bdf44ddaf8c52185"
+  },
+  "A.mp3": {
+    "source": "Sources/WhaleySpriteKit/Resources/A.mp3",
+    "sha256": "b633cd37c501f2a63edd1052fb03c08f42f92211fbe329c47939f8b52612c62a"
+  },
+  "B.mp3": {
+    "source": "Sources/WhaleySpriteKit/Resources/B.mp3",
+    "sha256": "5ab370a3b392c67dbfa3d17b00ba84f5a68e6e96a6fcf63a8b6fec6ddcfa69dc"
+  },
+  "bg01.mp3": {
+    "source": "Sources/WhaleySpriteKit/Resources/bg01.mp3",
+    "sha256": "c4afd8c350c44b9dca70e452b4ff8c2cd560ede2e5e71b2fcf2c4b5f254afee8"
+  },
+  "knock.mp3": {
+    "source": "Sources/WhaleySpriteKit/Resources/knock.mp3",
+    "sha256": "f4c36792f0de2ce782d9140e2f6886125c2d44caa703edc701acd5be6752164c"
+  },
+  "bounce01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/bounce01.wav",
+    "sha256": "a06869ecde589d753eadb96209a53259dba6291b344bbbb31501b57ce4f03f83"
+  },
+  "coin01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/coin01.wav",
+    "sha256": "7ec7b436b97b93728b86c5fa9c2624f6220c5df18d5cdf4cc214c56093867669"
+  },
+  "flame01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/flame01.wav",
+    "sha256": "194b40be762804ef80707562b465bcab0f9ffab6afd6a95d2d8ef8c0462eb0d1"
+  },
+  "goal01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/goal01.wav",
+    "sha256": "4c7733b5805dce38bf1536535de36e169f92938eb03cdd8f8f74ab4edc30464a"
+  },
+  "jump01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/jump01.wav",
+    "sha256": "8ff293ec74fbabf89db6758b36114efbdf1a86e57c2a9f4cba1b1b2fc9505dad"
+  },
+  "pause01.wav": {
+    "source": "Sources/WhaleySpriteKit/Resources/pause01.wav",
+    "sha256": "15037e9a9e45dfdccc7dde9d16b36b1a3fd8facc80c8976c496a687734bbcd31"
+  }
+}
